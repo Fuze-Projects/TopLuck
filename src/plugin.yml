@@ -1,0 +1,10 @@
+name: TopLuck_Plugin
+version: 1.0.0
+description: Systeme de topluck.
+author: Raraph84
+main: fr.raraph84.topluck.Main
+api-version: 1.16
+
+commands:
+    topluck:
+        description: Permet de lister le topluck des personnes connectees.
